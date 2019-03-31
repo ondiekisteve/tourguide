@@ -1,0 +1,19 @@
+.navbar ul li a{
+    color: white;
+}
+.navbar ul li a:hover{
+    color: teal;
+}
+.navbar-brand a{
+    color: white;
+}
+.navbar-brand a:hover{
+    font-style: italic;
+}
+#admin-sidebar-links ul a:hover{
+    background-color: teal;
+    color: white;
+}
+#bookingtable tr td{
+    padding: 0px;
+}
